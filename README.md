@@ -1,5 +1,5 @@
 ## ABOUT
-Texas Massacre is a demo Shooter Game.
+Little Shooter is a mobile game.
 
 ## OBJECTIVE
 1. Carry out exploratory testing.
